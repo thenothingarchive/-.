@@ -88,4 +88,3 @@ im starting to lose interest in everything, i work.. why the fuck do i work? im 
     </div>
 
 </body>
-</html>
