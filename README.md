@@ -86,7 +86,7 @@
 
         <div class="content">
 
-            <div class="date">09/20/2026</div>
+           <div class="date"><h3>09/20/2026</h3></div>
 
             <p>
 I don’t really know why I made this website i guess i just needed a place to spill everything since i cant tell people what i truly feel, i will document every day of my life, every event, every tragedy, hopefully i wont have to document for a long time, humans arent supposed to bottle up so much emotions for a long time, once you do and you lash out, all of those emotions will come out at once, what will happen then?
