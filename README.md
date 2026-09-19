@@ -27,6 +27,10 @@
             margin: 0 10px;
         }
 
+        .navigation .divider {
+            color: black;
+        }
+
         .title {
             display: flex;
             align-items: center;
@@ -68,6 +72,7 @@
 
         <div class="navigation">
             <a href="index.html">Home</a>
+            <span class="divider">|</span>
             <a href="journal.html">Cannibal</a>
         </div>
 
@@ -93,10 +98,6 @@ Envy is truly a disgusting emotion, there is nothing worse than seeing someone y
 
             <p>
 im starting to lose interest in everything, i work.. why the fuck do i work? im still a child im supposed to be in school.. i come back at 7pm do nothing until 1am and go to sleep, thats my whole life, im losing patience every day, am i supposed to live like this for another 60 years and then die? whats the point in that, id rather end it all now and not have to work another day its all bullshit, i wanna do it but im just too scared, im not scared of death, im scared of the process, if i could get my hand on a handgun i’d do it instantly, but its never that easy.. who knows? maybe i will have my hands on one, one day
-            </p>
-
-            <p>
-                <a href="journal.html">cannibal →</a>
             </p>
 
         </div>
