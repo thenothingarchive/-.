@@ -16,6 +16,25 @@
             width: 650px;
             max-width: 85%;
             margin: 100px auto;
+        }
+
+        .navigation {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 16px;
+        }
+
+        .navigation a {
+            color: blue;
+            text-decoration: underline;
+            margin: 0 10px;
+        }
+
+        .navigation .divider {
+            color: black;
+        }
+
+        .writing {
             display: flex;
             align-items: stretch;
         }
@@ -25,7 +44,7 @@
             background: black;
         }
 
-        .writing {
+        .writing-content {
             flex: 1;
             padding: 0 35px;
             text-align: left;
@@ -50,24 +69,34 @@
 
     <div class="page">
 
-        <div class="line"></div>
+        <div class="navigation">
+            <a href="index.html">Home</a>
+            <span class="divider">|</span>
+            <a href="journal.html">Cannibal</a>
+        </div>
 
         <div class="writing">
 
-            <div class="date">09/20/2026</div>
+            <div class="line"></div>
 
-            <p>
-                Write your entry here. The writing sits between
-                two simple vertical lines.
-            </p>
+            <div class="writing-content">
 
-            <p>
-                Add more paragraphs whenever you want.
-            </p>
+                <div class="date">09/20/2026</div>
+
+                <p>
+                    Write your entry here. The writing sits between
+                    two simple vertical lines.
+                </p>
+
+                <p>
+                    Add more paragraphs whenever you want.
+                </p>
+
+            </div>
+
+            <div class="line"></div>
 
         </div>
-
-        <div class="line"></div>
 
     </div>
 
