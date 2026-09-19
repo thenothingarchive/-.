@@ -97,7 +97,7 @@ Envy is truly a disgusting emotion, there is nothing worse than seeing someone y
             </p>
 
             <p>
-im starting to lose interest in everything, i work.. why the fuck do i work? im still a child im supposed to be in school.. i come back at 7pm do nothing until 1am and go to sleep, thats my whole life, im losing patience every day, am i supposed to live like this for another 60 years and then die? whats the point in that, id rather end it all now and not have to work another day its all bullshit, i wanna do it but im just too scared, im not scared of death, im scared of the process, if i could get my hand on a handgun i’d do it instantly, but its never that easy.. who knows? maybe i will have my hands on one, one day
+im starting to lose interest in everything, i work.. why the fuck do i work? im still a child im supposed to be in school.. i come back at 7pm do nothing until 1am and go to sleep, thats my whole life, im losing patience every day, am i supposed to live like this for another 60 years and then die? whats the point in that, id rather end it all now and not have to work another day its all bullshit, i wanna do it but im just too scared, im not scared of death, im scared of the process, if i could get my hand on a handgun i’d do it instantly, but its never that easy.. who knows? maybe i will have my hands on one, one day. sorry if this was too much for the first day but you’ll probably see worse later on ;(
             </p>
 
         </div>
