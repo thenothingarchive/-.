@@ -16,6 +16,17 @@
             text-align: center;
         }
 
+        .navigation {
+            margin-bottom: 25px;
+            font-size: 16px;
+        }
+
+        .navigation a {
+            color: blue;
+            text-decoration: underline;
+            margin: 0 10px;
+        }
+
         .title {
             display: flex;
             align-items: center;
@@ -55,6 +66,11 @@
 
     <div class="page">
 
+        <div class="navigation">
+            <a href="index.html">Home</a>
+            <a href="journal.html">Cannibal</a>
+        </div>
+
         <div class="title">
             <div class="line"></div>
 
@@ -80,7 +96,7 @@ im starting to lose interest in everything, i work.. why the fuck do i work? im 
             </p>
 
             <p>
-                <a href="journal.html">read the journal →</a>
+                <a href="journal.html">cannibal →</a>
             </p>
 
         </div>
