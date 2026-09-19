@@ -6,7 +6,7 @@
 
 <body>
 
-<h1>ANOTHER DAY I GUESS</h1>
+ANOTHER DAY I GUESS
 
 <p>welcome to my shitty website</p>
 
