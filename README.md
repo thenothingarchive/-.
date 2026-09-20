@@ -77,8 +77,8 @@
             <div class="writing-content">
 
                 <div class="entry">
-                    <a href="09202026.html">
-                        09/20/2026 | the beginning, and hopefully the end soon
+                    <a href="09192026.html">
+                        09/19/2026 | the beginning, and hopefully the end soon
                     </a>
                 </div>
 
