@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <html>
-<marquee>THE NOTHING ARCHIVE — NOTHING IMPORTANT IS HAPPENING HERE</marquee>
+
 <head>
     <title>The Nothing Archive</title>
 
@@ -57,10 +58,41 @@
             color: blue;
             text-decoration: underline;
         }
+
+        /* Choppy scrolling text */
+
+        .marquee {
+            width: 100%;
+            overflow: hidden;
+            white-space: nowrap;
+            margin-top: 20px;
+            margin-bottom: 40px;
+            font-size: 14px;
+        }
+
+        .marquee span {
+            display: inline-block;
+            padding-left: 100%;
+            animation: choppy-scroll 10s steps(35, end) infinite;
+        }
+
+        @keyframes choppy-scroll {
+            from {
+                transform: translateX(0);
+            }
+
+            to {
+                transform: translateX(-100%);
+            }
+        }
     </style>
 </head>
 
 <body>
+
+    <div class="marquee">
+        <span>Nothing Important Here</span>
+    </div>
 
     <div class="page">
 
