@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -68,7 +67,7 @@
         <div class="navigation">
             <a href="index.html">Home</a>
             <span class="divider">|</span>
-            <a href="journal.html">Cannibal</a>
+            <a href="Cannibal.html">Cannibal</a>
         </div>
 
         <div class="writing">
