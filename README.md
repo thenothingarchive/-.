@@ -1,5 +1,5 @@
 <html>
-
+<marquee>THE NOTHING ARCHIVE — NOTHING IMPORTANT IS HAPPENING HERE</marquee>
 <head>
     <title>The Nothing Archive</title>
 
