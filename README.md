@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -67,7 +66,7 @@
             white-space: nowrap;
             margin-top: 20px;
             margin-bottom: 40px;
-            font-size: 14px;
+            font-size: 20px;
         }
 
         .marquee span {
